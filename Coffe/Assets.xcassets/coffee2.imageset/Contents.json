@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "coffee-vector-1640548_300x300.jpg",
+      "filename" : "coffee2.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "coffee-vector-1640548_300x300-1.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "coffee-vector-1640548_300x300-2.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }

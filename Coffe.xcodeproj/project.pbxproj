@@ -13,6 +13,7 @@
 		85F8650025605C3700A297A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85F864FF25605C3700A297A7 /* Preview Assets.xcassets */; };
 		85F8650A25605CA300A297A7 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F8650925605CA300A297A7 /* SplashScreen.swift */; };
 		85F8650E256069A700A297A7 /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F8650D256069A700A297A7 /* ImageCarouselView.swift */; };
+		85FEEE1A2562C9B000D7F971 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FEEE192562C9B000D7F971 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		85F8650125605C3700A297A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85F8650925605CA300A297A7 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		85F8650D256069A700A297A7 /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
+		85FEEE192562C9B000D7F971 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				85F864FA25605C3400A297A7 /* ContentView.swift */,
 				85F8650925605CA300A297A7 /* SplashScreen.swift */,
 				85F8650D256069A700A297A7 /* ImageCarouselView.swift */,
+				85FEEE192562C9B000D7F971 /* Login.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85F8650A25605CA300A297A7 /* SplashScreen.swift in Sources */,
+				85FEEE1A2562C9B000D7F971 /* Login.swift in Sources */,
 				85F864FB25605C3400A297A7 /* ContentView.swift in Sources */,
 				85F8650E256069A700A297A7 /* ImageCarouselView.swift in Sources */,
 				85F864F925605C3400A297A7 /* CoffeApp.swift in Sources */,
